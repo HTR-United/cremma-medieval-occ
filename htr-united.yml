@@ -1,0 +1,28 @@
+schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+title: Cremma Medieval Occitan
+url: https://github.com/HTR-United/cremma-medieval-occ
+description: 'Incoming description'
+language:
+- fro
+script:
+- Latn
+script-type: only-manuscript
+time:
+  notBefore: '1200'
+  notAfter: '1400'
+hands:
+  count: 1-per-folder
+  precision: estimated
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+- metric: characters
+  count: 0
+- metric: files
+  count: 0
+- metric: lines
+  count: 0
+- metric: regions
+  count: 0
